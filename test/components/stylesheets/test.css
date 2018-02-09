@@ -1,0 +1,49 @@
+<!--    
+    @@@T4AssetType = pageLayout
+    @@@T4AssetID = 157
+    @@@T4Parse = startHeader
+-->
+<h1>a header test for development</h1>
+<nav>
+  <ul>
+    <li>testA</li>
+    <li>testB</li>
+    <li>TestC</li>
+    <li>TestD</li>
+  </ul>
+</nav>
+
+<!-- @@@T4Parse = endHeader-->
+
+<h1>content</h1>
+<nav>
+  <ul>
+    <li>testB</li>
+    <li>TestC</li>
+    <li>TestC</li>
+    <li>TestC</li>
+  </ul>
+</nav>
+<h1>more content</h1>
+<nav>
+  <ul>
+    <li>testA</li>
+    <li>testB</li>
+    <li>TestC</li>
+    <li>TestC</li>
+    <li>TestC</li>
+  </ul>
+</nav>
+
+<!-- @@@T4Parse = startFooter -->
+
+<h1>a footer test</h1>
+<nav>
+  <ul>
+    <li>testA</li>
+    <li>TestZ</li>
+  </ul>
+</nav>
+
+<!-- @@@T4Parse = name -->
+other
